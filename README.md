@@ -91,12 +91,6 @@ GitHub
 
 Streamlit Community Cloud
 
-Installation (Local Setup):
-
-Clone the repository:
-
-git clone https://github.com/yourusername/ai-brand-tweet-generator.git
-
 Navigate to the project folder:
 
 cd ai-brand-tweet-generator
